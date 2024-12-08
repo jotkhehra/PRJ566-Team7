@@ -1,0 +1,126 @@
+Card ID,Card Name,Card URL,Card Description,Labels,Members,Due Date,Attachment Count,Attachment Links,Checklist Item Total Count,Checklist Item Completed Count,Vote Count,Comment Count,Last Activity Date,List ID,List Name,Board ID,Board Name,Archived,Start Date,Due Complete
+6754d9c41253afb182995523,[5pts] User Registration,https://trello.com/c/eyOxGKsr/1-5pts-user-registration,"As a new user, I want to register using my email and password so that I can create an account
+
+Acceptance Criteria:
+
+- Email validation
+- Password strength check
+- Account creation confirmation
+- Social media login options","P1  Must Have  (red), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:28:05.572Z,6754d8cf2302be64fcd7434b,Sprint 1 (P1) - Core Authentication,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754da1db69ef26b73844c80,[3pts] User Authentication,https://trello.com/c/jpNZN6w9/2-3pts-user-authentication,"As a registered user, I want to log in securely so that I can access my grocery lists
+
+Acceptance Criteria:
+
+- Secure login with email/password
+- Password reset functionality
+- Remember me option
+- Login error handling
+- Session management","P1  Must Have  (red), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:28:42.134Z,6754d8cf2302be64fcd7434b,Sprint 1 (P1) - Core Authentication,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754da485df85f5874003ac1,[5pts] Basic List Creation,https://trello.com/c/NpenEobe/3-5pts-basic-list-creation,"As a user, I want to create and manage my grocery lists so that I can organize my shopping needs
+
+Acceptance Criteria:
+
+- Create new grocery list
+- Add/remove items to list
+- Edit item quantities
+- Name and save lists
+- Delete lists
+- Mark items as completed","P1  Must Have  (red), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:29:18.903Z,6754d8cf2302be64fcd7434b,Sprint 1 (P1) - Core Authentication,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754da60a423b63eb32e45b0,[6pts] User Preferences Setup,https://trello.com/c/KcLaxZTP/4-6pts-user-preferences-setup,"As a user, I want to set up my preferences and dietary restrictions so that I receive personalized recommendations
+
+Acceptance Criteria:
+
+- Set dietary preferences (vegetarian, vegan, etc.)
+- Set budget limits
+- Choose preferred stores
+- Add allergy information
+- Save and update preferences","P1  Must Have  (red), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:29:54.691Z,6754d8f5f61b915fcd1f7355,Sprint 2 (P1) - User Preferences & AI,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754da87588493e6ec55c608,[10pts] Basic AI Integration,https://trello.com/c/CQbjhqpe/5-10pts-basic-ai-integration,"As a user, I want the app to learn from my shopping history so that I can receive personalized recommendations
+
+Acceptance Criteria:
+
+- Track user shopping patterns
+- Analyze purchase history
+- Generate basic product recommendations
+- Consider user preferences in suggestions
+- Learn from user acceptance/rejection of recommendations","P1  Must Have  (red), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:30:23.185Z,6754d8f5f61b915fcd1f7355,Sprint 2 (P1) - User Preferences & AI,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754da9863bbcbbdb825f19a,[8pts] List Sharing,https://trello.com/c/0Crzb2wC/6-8pts-list-sharing,"As a user, I want to share my grocery lists with family members so that we can collaborate on shopping
+
+Acceptance Criteria:
+
+- Share lists with other users
+- Set permissions (view/edit)
+- Real-time updates for shared lists
+- Notifications for list changes
+- Remove sharing access","P2  Should Have  (yellow), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:30:39.723Z,6754d8fa9fd365b24be6e45d,Sprint 3 (P2) - List Features,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754dab726e275a5529fffc0,[10pts] Meal Planning,https://trello.com/c/3p3TD58P/7-10pts-meal-planning,"As a user, I want to plan my meals for the week so that I can automatically generate grocery lists
+
+Acceptance Criteria:
+
+- Create weekly meal plans
+- Search and add recipes
+- Automatically generate shopping lists from recipes
+- Scale recipes by servings
+- Save favorite meal plans
+- Display nutritional information","P2  Should Have  (yellow), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:31:24.214Z,6754d8fa9fd365b24be6e45d,Sprint 3 (P2) - List Features,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754dc88d8d06debde0fcabb,[8pts] Store Integration,https://trello.com/c/TD3c3oZ2/8-8pts-store-integration,"As a user, I want to see real-time prices and availability from local stores so that I can optimize my shopping
+
+Acceptance Criteria:
+
+- Display current prices from local stores
+- Show product availability
+- Compare prices across stores
+- Alert for special offers
+- Store inventory updates","P2  Should Have  (yellow), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:38:57.129Z,6754d8fe695e4bbc0cc354a3,Sprint 4 (P2) - Store Integration,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754dca848b584a4669fe2be,[7pts] Store Navigation,https://trello.com/c/HobQ7ujq/9-7pts-store-navigation,"As a user, I want to navigate efficiently through the store so that I can complete my shopping quickly
+
+Acceptance Criteria:
+
+- Display store layout map
+- Show optimal shopping route
+- Provide aisle information
+- Sort shopping list by store layout
+- Real-time location tracking
+- Rerouting based on item availability","P3  Could Have  (green), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:40:49.738Z,6754d8fe695e4bbc0cc354a3,Sprint 4 (P2) - Store Integration,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754dcebe1d33f6c4713dccf,[13pts] Smart Recommendations,https://trello.com/c/o9RrjiQW/10-13pts-smart-recommendations,"As a user, I want intelligent product recommendations based on my patterns and preferences
+
+Acceptance Criteria:
+
+- Predictive shopping suggestions
+- Price trend analysis
+- Alternative product recommendations
+- Seasonal item suggestions
+- Budget optimization recommendations
+- Smart reorder reminders","P3  Could Have  (green), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:40:43.770Z,6754d8fe695e4bbc0cc354a3,Sprint 4 (P2) - Store Integration,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754dd877d728dca2e0470a7,[8pts] Predictive Shopping,https://trello.com/c/CVZr2YwV/11-8pts-predictive-shopping,"As a user, I want the app to predict my shopping needs based on my patterns so that I never run out of essentials
+
+Acceptance Criteria:
+
+- Analyze consumption patterns
+- Predict when items need restocking
+- Smart reminders for regular purchases
+- Usage pattern visualization
+- Automatic list generation based on patterns
+- Adjustable prediction settings","P3  Could Have  (green), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:43:15.619Z,6754d90242f32cae0ea05257,Sprint 5 (P3) - Advanced AI,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754ddaafec88ed7ae2de807,[9pts] Enhanced Integration,https://trello.com/c/MPJj1DFy/12-9pts-enhanced-integration,"As a user, I want enhanced integration features so that I can use the app more conveniently
+
+Acceptance Criteria:
+
+- Voice command support
+- Smart home device integration
+- Receipt scanning
+- Export shopping data
+- Integration with meal kit services
+- Calendar sync for meal planning","P3  Could Have  (green), User Story (blue)",,,0,,0,0,0,0,2024-12-07T23:43:46.031Z,6754d90242f32cae0ea05257,Sprint 5 (P3) - Advanced AI,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
+6754ddc9265dd6bf5a7f4bf3,[7pts] System Optimization,https://trello.com/c/EUuHDigA/13-7pts-system-optimization,"Optimize system performance and user experience through technical improvements
+
+Acceptance Criteria:
+
+- Implement offline functionality
+- Optimize app loading times
+- Improve data synchronization
+- Enhance battery efficiency
+- Reduce data usage
+- Implement caching strategy
+- Optimize database queries
+- Performance monitoring setup","P3  Could Have  (green), Technical Task (purple)",,,0,,0,0,0,0,2024-12-07T23:44:21.398Z,6754d90a55344b947911a70c,Sprint 6 (P3) - Enhancement,6754d88d7e32406fa24152f7,AI Grocery List App,false,,false
