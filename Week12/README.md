@@ -26,4 +26,4 @@ Total Story Points: 99
 
 ## Links
 - [Trello Board] (https://trello.com/b/vcBn56fl)
-- [Detailed Export] Week12/product-backlog.json 
+- [Detailed Export](./product-backlog.json)
