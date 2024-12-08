@@ -25,5 +25,5 @@ Total Story Points: 99
 - P3 (Could Have): Desired features for future enhancement
 
 ## Links
-- [Trello Board] (https://trello.com/b/vcBn56fl)
+- [Trello Board](https://trello.com/b/vcBn56fl)
 - [Detailed Export](./product-backlog.json)
